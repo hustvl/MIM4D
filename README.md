@@ -37,3 +37,18 @@ We demonstrate that MIM4D achieves state-of-the-art performance on the nuScenes 
 
 
 
+## Citation
+If you find MIM4D is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
+
+```bibtex
+ @article{mim4d,
+  title={MIM4D: Masked Modeling with Multi-View Video for Autonomous Driving Representation Learning},
+  author={Jialv Zou and Bencheng Liao and Qian Zhang and Wenyu Liu and Xinggang Wang},
+  journal={arXiv preprint arXiv:TODO},
+  year={2024}
+}
+```
+
+
+
+
