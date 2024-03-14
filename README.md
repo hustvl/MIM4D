@@ -7,7 +7,8 @@
 <sup>1</sup>  School of EIC, HUST, <sup>2</sup>  Institute of Artificial Intelligence, HUST,   <sup>3</sup> Horizon Robotics
 
 (\*) equal contribution, (<sup>:email:</sup>) corresponding author.
-
+ 
+ArXiv Preprint ([arXiv 2403.08760](https://arxiv.org/abs/2403.08760))
 
 </div>
 
@@ -44,7 +45,7 @@ If you find MIM4D is useful in your research or applications, please consider gi
  @article{mim4d,
   title={MIM4D: Masked Modeling with Multi-View Video for Autonomous Driving Representation Learning},
   author={Jialv Zou and Bencheng Liao and Qian Zhang and Wenyu Liu and Xinggang Wang},
-  journal={arXiv preprint arXiv:TODO},
+  journal={arXiv preprint arXiv:2403.08760},
   year={2024}
 }
 ```
