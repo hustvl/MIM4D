@@ -89,9 +89,9 @@ Thanks for their great works.
 If you find MIM4D is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
 
 ```bibtex
- @article{mim4d,
-  title={MIM4D: Masked Modeling with Multi-View Video for Autonomous Driving Representation Learning},
-  author={Jialv Zou and Bencheng Liao and Qian Zhang and Wenyu Liu and Xinggang Wang},
+@article{zou2024mim4d,
+  title={Mim4d: Masked modeling with multi-view video for autonomous driving representation learning},
+  author={Zou, Jialv and Liao, Bencheng and Zhang, Qian and Liu, Wenyu and Wang, Xinggang},
   journal={arXiv preprint arXiv:2403.08760},
   year={2024}
 }
