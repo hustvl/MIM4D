@@ -8,7 +8,7 @@
 
 (\*) equal contribution, (<sup>:email:</sup>) corresponding author.
 
-**IJCV 2025**
+**[IJCV 2025](https://link.springer.com/article/10.1007/s11263-025-02464-w)**
 
 ArXiv Preprint ([arXiv 2403.08760](https://arxiv.org/abs/2403.08760))
 </div>
